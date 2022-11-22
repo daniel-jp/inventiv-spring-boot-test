@@ -39,18 +39,19 @@ Chaque case doit avoir les informations suivantes :
 
 ## Prérequis
 
-|Langage   |Framework    | Type de Base de données   | Pattern|                     
-|:--------:|:-----------:|:-------------------------:|:------:|
-| Java 11  | Spring Boot |  SQL (MySQL ou PotgreSQL) | MVC    | 
+|Langage   |Framework    | Type de Base de données          | Pattern|                     
+|:--------:|:-----------:|:--------------------------------:|:------:|
+| Java 11  | Spring Boot |  SQL (MySQL ou PotgreSQL) H2 DB* | MVC    | 
 
+---> H2 DB*: il faut utiliser le framework H2 embatrqué afin de tester le projet
 
 ## Livraison attendue 
 
-- Zip conteant le projet Spring Boot compilable avec Maven ou Gradle avec le code source en JAVA.
+- Zip conteant le projet Spring Boot compilable avec Maven ou Gradle avec le code source en JAVA ainsi minimum 2 testes unitaires.
 
 ## Durée de réalisation 
 
-- Le développement de ce mini projet est estimé à 1H15
+- Le développement de ce mini projet est estimé à 1H30 MAX
 
 ## Références
 
