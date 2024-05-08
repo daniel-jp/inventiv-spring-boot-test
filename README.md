@@ -1,3 +1,48 @@
+
+
+**RÉALISATION DU BACKEND DU MINI-PROJET SPRING BOOT :**
+
+        1. **Objectif atteint :**     
+
+        J'ai créé un service Web RESTful en utilisant Spring Boot, avec les quatre fonctionnalités CRUD (Create, Read, Update, Delete) mises en œuvre comme demandé.
+
+        2. **Endpoints corrects :** 
+
+        J'ai correctement implémenté les endpoints pour chaque fonctionnalité, en utilisant les méthodes HTTP appropriées (GET, PUT, POST, DELETE) et en respectant les URI spécifiées.
+
+        3. **Format des données :** 
+
+        J'ai assuré que les données envoyées et reçues sont au format JSON, conformément aux exigences. J'ai effectué des tests avec Postman pour valider cette fonctionnalité.
+
+        4. **Sécurité :** 
+
+        En plus des fonctionnalités CRUD, j'ai également ajouté une couche de sécurité en implémentant un système de login pour sécuriser les API.
+
+        5. **Implémentation de JWT :** 
+
+        J'ai également mis en place JSON Web Token (JWT) pour générer et valider les jetons d'authentification, renforçant ainsi la sécurité du système de connexion.
+
+        **Remarque :** Le mini-projet est sécurisé. Pour tester les fonctionnalités CRUD avec Postman ou Swagger, l'utilisateur doit d'abord se connecter pour générer le jeton d'authentification. Les identifiants pour la connexion sont les suivants :
+
+        Nom d'utilisateur : Admin
+        Mot de passe : 1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # [Java][Spring] Dream Case App - Restful API
 
 ## Objectif

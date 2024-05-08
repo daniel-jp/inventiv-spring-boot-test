@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4b4e818-beaa-42d0-859d-9556a28d5634" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mini-projet-java-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityConfigurations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/controllers/DreamCaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/controllers/auth/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/DreamCaseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/AuthenticationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/LoginResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/RegisterDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/DreamCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/user/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseAlreadExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserAlreadyExistsExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/repositories/DreamCaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/AuthorizationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/DreamCaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/ImpService/ImpDreamCaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/validroups/ValidationGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/resources/db/migration/V2__create-table-users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/test/java/com/inventivtest/dreamCaseApp/services/DreamCaseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restfulapidb.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2g0TTLaklqrUir61gM7HLdtEJ3A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/Desktop/INVENTIV-TEST/mini-projet-java-spring&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.inventivtest.dreamCaseApp" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.inventivtest.dreamCaseApp.controllers" />
+      <recent name="com.inventivtest.dreamCaseApp.services" />
+      <recent name="com.inventivtest.dreamCaseApp.repositories" />
+      <recent name="com.inventivtest.dreamCaseApp.controllers.auth" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4b4e818-beaa-42d0-859d-9556a28d5634" name="Changes" comment="" />
+      <created>1696324006564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696324006564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mini_projet_java_spring$DreamCaseServiceTest_findCaseByCaseId.ic" NAME="DreamCaseServiceTest$findCaseByCaseId Coverage Results" MODIFIED="1715088768844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.inventivtest.dreamCaseApp.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mini_projet_java_spring$DreamCaseServiceTest_createDreamCase.ic" NAME="DreamCaseServiceTest$createDreamCase Coverage Results" MODIFIED="1715054287049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.inventivtest.dreamCaseApp.services.*</FILTER>
+    </SUITE>
+  </component>
+</project>
