@@ -5,41 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4b4e818-beaa-42d0-859d-9556a28d5634" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mini-projet-java-spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityConfigurations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/TokenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/controllers/DreamCaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/controllers/auth/AuthenticationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/DreamCaseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/AuthenticationDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/LoginResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/RegisterDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/DreamCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/user/UserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/ExceptionResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseAlreadExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserAlreadyExistsExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/repositories/DreamCaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/AuthorizationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/DreamCaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/ImpService/ImpDreamCaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/validroups/ValidationGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/main/resources/db/migration/V2__create-table-users.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dreamCaseApp/src/test/java/com/inventivtest/dreamCaseApp/services/DreamCaseServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restfulapidb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/DreamCaseAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/DreamCaseAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityConfigurations.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityConfigurations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/SecurityFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/Security/jwt/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/controllers/DreamCaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/controllers/DreamCaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/controllers/auth/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/controllers/auth/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/DreamCaseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/dto/DreamCaseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/AuthenticationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/AuthenticationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/LoginResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/LoginResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/RegisterDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/dto/userDTO/RegisterDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/DreamCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/entities/DreamCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/entities/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/entities/user/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/entities/user/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/ExceptionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/exceptions/ExceptionResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/Handler/CustomizedResponseEntityExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/exceptions/Handler/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseAlreadExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseAlreadExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/exceptions/dreamCaseException/DreamCaseNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserAlreadyExistsExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserAlreadyExistsExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/exceptions/userException/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/repositories/DreamCaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/repositories/DreamCaseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/AuthorizationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/services/AuthorizationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/DreamCaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/services/DreamCaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/ImpService/ImpDreamCaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/services/ImpService/ImpDreamCaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/java/com/inventivtest/dreamCaseApp/validroups/ValidationGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/java/com/inventivtest/dreamCaseApp/validroups/ValidationGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/main/resources/db/migration/V2__create-table-users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/main/resources/db/migration/V2__create-table-users.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/test/java/com/inventivtest/dreamCaseApp/DreamCaseAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/test/java/com/inventivtest/dreamCaseApp/DreamCaseAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dreamCaseApp/src/test/java/com/inventivtest/dreamCaseApp/services/DreamCaseServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dream-case-app/src/test/java/com/inventivtest/dreamCaseApp/services/DreamCaseServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +107,26 @@
       <recent name="com.inventivtest.dreamCaseApp.controllers.auth" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="DreamCaseAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inventivtest.dreamCaseApp.DreamCaseAppApplication" />
+      <module name="dreamCaseApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inventivtest.dreamCaseApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DreamCaseAppApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -114,6 +137,17 @@
       <updated>1696324006564</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

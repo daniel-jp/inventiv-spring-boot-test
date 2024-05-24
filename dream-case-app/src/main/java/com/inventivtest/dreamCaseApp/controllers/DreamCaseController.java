@@ -41,7 +41,8 @@ public class DreamCaseController {
 
 
     @PutMapping(path = "/{caseId}")
-    public ResponseEntity<DreamCaseDto> updateDreamCase(@RequestBody DreamCaseDto updatedCaseDto, @PathVariable Long caseId) {
+    public ResponseEntity<DreamCaseDto> updateDreamCase(
+            @RequestBody DreamCaseDto updatedCaseDto, @PathVariable Long caseId) {
         try {
             DreamCaseDto updatedCase = dreamCaseService.updateCase(updatedCaseDto, caseId);
             return ResponseEntity.ok(updatedCase);
